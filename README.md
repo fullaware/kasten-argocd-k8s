@@ -43,6 +43,8 @@ Login to the UI as admin user and the password retrieved from the above command.
 
 ## Installing Kasten
 
-Installing Kasten on AKS using Active Directory Authentication : [aks/kasten-install-ad-auth/README.md](https://github.com/smohandass/kasten-argocd-k8s/tree/main/aks/kasten-install-ad-auth)
+Installing Kasten on AKS using Active Directory Authentication : [aks/kasten-install-ad-auth/README.md](https://github.com/fullaware/kasten-argocd-k8s/tree/main/aks/kasten-install-ad-auth)
 
-Installing Kasten on AKS using Token Authentication : [aks/kasten-install-token-auth/README.md](https://github.com/smohandass/kasten-argocd-k8s/tree/main/aks/kasten-install-token-auth)
+Installing Kasten on AKS using Token Authentication : [aks/kasten-install-token-auth/README.md](https://github.com/fullaware/kasten-argocd-k8s/tree/main/aks/kasten-install-token-auth)
+
+Installing Kasten on EKS using Token Authentication : [eks/kasten-install-token-auth/README.md](https://github.com/fullaware/kasten-argocd-k8s/tree/main/eks/kasten-install-token-auth)
