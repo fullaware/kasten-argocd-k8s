@@ -9,5 +9,5 @@ k10:
   ingress:
     create: true
     host: "k10.k8s.home.fullaware.com"
-    urlPath: /
+    urlPath: ""
     pathType: Prefix
