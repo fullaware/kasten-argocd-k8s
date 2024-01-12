@@ -10,3 +10,4 @@ k10:
     create: true
     host: "k10.k8s.home.fullaware.com"
     urlPath: /
+    pathType: Prefix
