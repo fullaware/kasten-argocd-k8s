@@ -6,6 +6,8 @@ k10:
       enabled: true
   eula:
     accept: true
+    company: "Kasten"
+    email: "k10admin@kasten.io"
   ingress:
     create: true
     host: "k10.k8s.home.fullaware.com"
