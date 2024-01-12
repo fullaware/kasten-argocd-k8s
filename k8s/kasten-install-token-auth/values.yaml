@@ -1,0 +1,12 @@
+k10:
+  externalGateway:
+    create: true
+  auth:
+    tokenAuth:
+      enabled: true
+  eula:
+    accept: true
+  ingress:
+    create: true
+    host: "k10.k8s.home.fullaware.com"
+    urlPath: "/"

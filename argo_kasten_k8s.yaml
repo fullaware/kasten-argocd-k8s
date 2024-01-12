@@ -10,7 +10,7 @@ spec:
     namespace: kasten-io
     server: 'https://kubernetes.default.svc'
   source:
-    path: eks/kasten-install-token-auth
+    path: k8s/kasten-install-token-auth
     repoURL: https://github.com/fullaware/kasten-argocd-k8s.git
     targetRevision: main
     helm:
